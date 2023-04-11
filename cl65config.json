@@ -1,5 +1,5 @@
 {
-  "executable": "C:\\cc65\\bin\\cl65",
+  "executable": "/usr/bin/local/cl65",
   "input": "demo.s",
   "params": "--verbose --target nes -o demo.nes"
 }
